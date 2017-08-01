@@ -1,1 +1,1 @@
-# -Sitecore-ConfigEnableDisableSpreadsheet-Powershell
+# Sitecore-Configuration-Automation-Script
